@@ -19,7 +19,7 @@ gem 'mini_magick', '~> 4.2.10'
 gem 'tinymce-rails'
 gem 'rails-i18n', '~> 4.0.0'
 gem 'acts_as_tree', '~> 2.2.0'
-#gem "fog"
+gem "fog"
 gem "figaro"
 
 
